@@ -40,7 +40,14 @@ These are open source projects that I created and actively maintain:
 | [xhr](https://github.com/kitsonk/xhr)                           | A polyfill for Deno of `XMLHttpRequest`.                                                                                   | ![GitHub Stars](https://img.shields.io/github/stars/kitsonk/xhr)              |
 | [google-datastore](https://github.com/kitsonk/google-datastore) | A library for accessing Google Datastore from Deno.                                                                        | ![GitHub Stars](https://img.shields.io/github/stars/kitsonk/google-datastore) |
 
-I have had the privilage of being a part of some major software technology
+There are a some open source projects I actively contribute to, but do not
+maintain:
+
+| Project                                                |                                                                                                  |
+| ------------------------------------------------------ | ------------------------------------------------------------------------------------------------ |
+| [@deno/kv-utils](https://github.com/denoland/kv-utils) | I have contributed some of `kv-toolbox` to a set of official utilities for working with Deno KV. |
+
+I have had the privilege of being a part of some major software technology
 products and projects over the years. Here are some things that I made major
 contributions or created but no longer maintain:
 
