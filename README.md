@@ -1,7 +1,6 @@
 <h2 align="center"> Hello 👋 , I'm Kitson Kelly <br/></h2>
 
 [![Follow on Bluesky](https://img.shields.io/badge/Follow-Bluesky-3B82F6.svg)](https://bsky.app/profile/kitsonkelly.com)
-[![Follow on Twitter](https://img.shields.io/badge/Follow-Twitter-1DA1F2.svg)](https://twitter.com/kitsonk)
 [![Follow on LinkedIn](https://img.shields.io/badge/Follow-LinkedIn-0072b1.svg)](https://www.linkedin.com/in/kitsonkelly/)
 
 I am a Principal Technologist at [CTO Labs](https://www.ctolabs.com.au/) where I
