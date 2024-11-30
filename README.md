@@ -43,9 +43,9 @@ These are open source projects that I created and actively maintain:
 There are a some open source projects I actively contribute to, but do not
 maintain:
 
-| Project                                                |                                                                                                  |
-| ------------------------------------------------------ | ------------------------------------------------------------------------------------------------ |
-| [@deno/kv-utils](https://github.com/denoland/kv-utils) | I have contributed some of `kv-toolbox` to a set of official utilities for working with Deno KV. |
+| Project                                                |                                                                                                  |                                                                          |
+| ------------------------------------------------------ | ------------------------------------------------------------------------------------------------ | ------------------------------------------------------------------------ |
+| [@deno/kv-utils](https://github.com/denoland/kv-utils) | I have contributed some of `kv-toolbox` to a set of official utilities for working with Deno KV. | ![GitHub Stars](https://img.shields.io/github/stars/denoland/kv-toolbox) |
 
 I have had the privilege of being a part of some major software technology
 products and projects over the years. Here are some things that I made major
